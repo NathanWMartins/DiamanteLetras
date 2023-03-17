@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exDiamanteLetras", "exDiamanteLetras\exDiamanteLetras.csproj", "{47710EA4-DE80-4DF7-B62D-6B31F981CF5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47710EA4-DE80-4DF7-B62D-6B31F981CF5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47710EA4-DE80-4DF7-B62D-6B31F981CF5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47710EA4-DE80-4DF7-B62D-6B31F981CF5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47710EA4-DE80-4DF7-B62D-6B31F981CF5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85A0759B-44DC-41C7-8543-69A4106DE4C7}
+	EndGlobalSection
+EndGlobal
